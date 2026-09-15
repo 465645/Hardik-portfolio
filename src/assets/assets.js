@@ -106,7 +106,7 @@ export const projects = [
     title: 'Hardik Portfolio',
     description: 'A responsive personal portfolio website showcasing my technical skills, projects, experience, education, and professional journey.',
     tech: ['React', 'JavaScript', 'CSS3', 'Framer Motion'],
-    code: 'https://github.com/465645',
+    code: 'https://github.com/465645/Hardik-portfolio',
   },
 ]
 
